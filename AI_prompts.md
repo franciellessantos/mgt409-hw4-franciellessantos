@@ -282,3 +282,7 @@ A running log of every prompt sent to the AI assistant during HW4.
 
 ## 56. 2026-09-27 — Problem 13 follow-up: publishing hygiene
 > rename ai_prompts.md to AI_prompts.md; requirements = deps to run; README = how to run front+back after data pack; .env.example is a placeholder — DO NOT upload real .env / campus_customs.db / product imgs to GitHub (gitignore them); local pack CAN include the real db + products, just never publish them.
+
+## 57. 2026-09-27 — Problem 13: publish to GitHub
+> ok so now lets upload everything (EXCEPTING DATA FOLDER) on github. you must publish the whole folder hw4 (notice it doesnt contain the data folder)
+> → Published to https://github.com/franciellessantos/mgt409-hw4-franciellessantos (public). Verified data/, .env, campus_customs.db are NOT on the remote.
